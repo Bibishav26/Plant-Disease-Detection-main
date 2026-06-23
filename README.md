@@ -54,7 +54,7 @@ The web application (`main_app.py`) empowers users to interact with the trained 
 - opencv-python-headless==4.5.3
 - tensorflow==2.7.0
 
-## final output images
+## Final output images
 <img width="1920" height="900" alt="before final output result " src="https://github.com/user-attachments/assets/207bceb5-049a-4e6c-9437-ef2c69259f3d" />
 <br><br><br><br>
 <img width="1908" height="916" alt="final output result ss" src="https://github.com/user-attachments/assets/9db131d2-9a9b-4542-831a-a54fd5f6259b" />
