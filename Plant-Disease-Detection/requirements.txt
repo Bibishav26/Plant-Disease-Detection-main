@@ -1,0 +1,4 @@
+tensorflow>=2.12
+streamlit>=1.30
+opencv-python-headless>=4.8
+numpy>=1.23
